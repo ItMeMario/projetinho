@@ -11,7 +11,7 @@ Certifique-se de que você tenha permissões adequadas para executar comandos Do
 Como usar
 Clone este repositório para o seu ambiente local:
 
-git clone https://github.com/seu-usuario/projeto-template-laravel-docker.git
+git clone https://github.com/ItMeMario/projeto-template-laravel-docker.git
 Navegue até o diretório do projeto: cd projeto-template-laravel-docker
 Construa as imagens Docker e inicie os contêineres: docker-compose up -d --build
 
